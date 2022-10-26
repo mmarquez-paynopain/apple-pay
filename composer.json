@@ -1,5 +1,5 @@
 {
-    "name": "payu/apple-pay",
+    "name": "mmarquez-paynopain/apple-pay",
     "description": "ApplePay Token Decoder",
     "type": "library",
     "license": "Apache-2.0",
